@@ -1,4 +1,4 @@
-
+<img src="pymongo.jpg" width="900" height="500">
 
 # Data Management Systems - MSc
 
