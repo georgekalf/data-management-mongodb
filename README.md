@@ -1,6 +1,6 @@
 <img src="pymongo.jpg" width="900" height="500">
 
-# Data Management Systems - MSc
+# Data Management Systems - PyMongo
 
 This project involves the storage, manipulation, restructuring, and analysis of GitHub data, including commits, authors, and source codes, using PyTorch and Tensorflow. Both projects serve as examples of open source software (OSS) development. The primary goal is to enable efficient querying of data in MongoDB and extract insights into collaboration between authors, commit-level activity, and seasonality in OSS projects using PySpark.
 
